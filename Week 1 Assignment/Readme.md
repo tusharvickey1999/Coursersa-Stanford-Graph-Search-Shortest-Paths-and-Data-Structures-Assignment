@@ -1,3 +1,4 @@
+# Strong Connected Components
 The file consist of the solution to the assignment in the Coursera | Stanford Algorithm-2 Week 1  
 Strong Connected Components 
 The algorithm taught by the intructor is a recursive algorithm which is not possible to implement in python due to the restriction in recursion limit.  
