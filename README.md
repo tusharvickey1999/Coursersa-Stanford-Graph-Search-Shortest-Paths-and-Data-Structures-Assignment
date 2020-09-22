@@ -1,5 +1,5 @@
 # Coursersa-Stanford-Graph-Search-Shortest-Paths-and-Data-Structures
-Coursera Stanford Algorithm course-2
+Coursera Stanford Algorithm Course-2
 
 Done by : Tushar Singh  
 National Institute of Technology, Puducherry  
