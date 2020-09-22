@@ -1,4 +1,4 @@
-# Dijsktra Single Source Shortest Path  
+# Dijkstra Single Source Shortest Path  
 This algorithm is designed to calculate shortest distance between a source and all other vertices in the graph.  
 We can implement this algorithm using array(O(m*n)) or heap(O(m*logn)) but heap implementation gives better run time.  
 heappush() : Used to push a element into heap and then bubble it up as required.  
